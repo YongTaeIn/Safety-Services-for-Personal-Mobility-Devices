@@ -23,7 +23,7 @@ This project integrates **computer vision (YOLOv5, NetVLAD)**, **sensor-based dr
 ## 🔥 Features  
 ✔ **Real-time hazard detection** (School zones, speed bumps, sudden stops)  
 ✔ **AI-based pothole & speed bump recognition** (YOLOv5)  
-✔ **Visual localization-based parking validation** (NetVLAD) 
+✔ **Visual localization-based parking validation** (NetVLAD)  
 ✔ **IoT integration with Raspberry Pi for GPS, gyro, and camera uploads**  
 ✔ **Web-based admin dashboard & mobile app**  
 
