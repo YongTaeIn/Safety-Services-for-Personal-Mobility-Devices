@@ -11,9 +11,12 @@ This project is an AI-based system designed to improve personal mobility safety 
 This project integrates **computer vision (YOLOv5, NetVLAD)**, **sensor-based driving habit analysis**, and **web/app interfaces** to create a comprehensive smart mobility solution.  
 
 📖 **Paper Published**:  
-[IEEE MetaCom 2023 - Design and Implementation of Intelligent Safety Services for Personal Mobility Devices](https://ieeexplore.ieee.org/abstract/document/10271873)  
+[IEEE MetaCom 2023 - Design and Implementation of Intelligent Safety Services for Personal Mobility Devices](https://ieeexplore.ieee.org/abstract/document/10271873) 
+
 🗓 **Conference Date**: *26-28 June 2023*  
+
 📅 **Publication Date (IEEE Xplore)**: *06 October 2023*  
+
 📍 **Conference**: *2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)*
 ---
 
