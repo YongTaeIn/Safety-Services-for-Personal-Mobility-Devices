@@ -58,7 +58,7 @@ This project integrates **computer vision (YOLOv5, NetVLAD)**, **sensor-based dr
 ### 1️⃣ Risk Detection Modules  
 
 #### 🚦 Hazard Detection  
-```sh
+```
 python School_zone_detect.py
 python Speed_bump_detect.py
 python Sudden_stop_detect.py
@@ -74,7 +74,8 @@ python integrated.py
 # Speed bump detection
 cd yolov5_speedbump/get_image_Folder
 python integrated.py
-
+```
+---
 
 ### 2️⃣ Web Interface 🌐
 
