@@ -29,3 +29,13 @@
 ###  6. Parking Check (Visual localization) 
 1) activate conda environment
 2) python Visual_localization.py
+
+
+### 7. Paper
+link : https://ieeexplore.ieee.org/abstract/document/10271873
+
+📌 Project Overview
+KICK_OFF is an AI-driven system designed to enhance kickboard safety by detecting risks, managing GPS tracking, and enabling real-time visual localization. This project integrates computer vision (YOLOv5), sensor-based risk detection, and web/app interfaces to create a comprehensive smart mobility solution.
+
+📖 Paper :
+IEEE MetaCom 2023 - https://ieeexplore.ieee.org/abstract/document/10271873
