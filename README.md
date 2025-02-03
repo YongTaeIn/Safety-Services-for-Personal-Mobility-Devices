@@ -36,7 +36,7 @@ link : https://ieeexplore.ieee.org/abstract/document/10271873
 
 
 
-# 🚀 KICK_OFF: Smart Kickboard Risk Detection & Management System  
+# 🚀 KICK_OFF: Design and Implementation of Intelligent Safety Services for Personal Mobility Devices
 **AI-powered safety enhancement for personal mobility**  
 
 ![Kickboard Safety](https://user-images.githubusercontent.com/your-image-url.png)  
