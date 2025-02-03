@@ -1,4 +1,3 @@
-# KICK_OFF _킥보드 프로젝트 관련 코드.
 
 ### 1. detect 
 1) python School_zone_detect.py
@@ -30,12 +29,7 @@
 1) activate conda environment
 2) python Visual_localization.py
 
-
-### 7. Paper
-link : https://ieeexplore.ieee.org/abstract/document/10271873
-
-
-
+3) 
 # 🚀 KICK_OFF: Design and Implementation of Intelligent Safety Services for Personal Mobility Devices
 **AI-powered safety enhancement for personal mobility**  
 
@@ -46,7 +40,7 @@ This project is an AI-based system designed to improve personal mobility safety 
 This project integrates **computer vision (YOLOv5, NetVLAD)**, **sensor-based driving habit analysis**, and **web/app interfaces** to create a comprehensive smart mobility solution.  
 
 📖 **Paper Published**:  
-[IEEE MetaCom 2023 - Smart Kickboard Risk Detection](https://ieeexplore.ieee.org/abstract/document/10271873)  
+[IEEE MetaCom 2023 - Design and Implementation of Intelligent Safety Services for Personal Mobility Devices](https://ieeexplore.ieee.org/abstract/document/10271873)  
 
 ---
 
@@ -69,3 +63,19 @@ python School_zone_detect.py
 python Speed_bump_detect.py
 python Sudden_stop_detect.py
 python Analysis_rating.py
+
+# Activate environment
+conda activate <your_env>
+
+# Pothole detection
+cd yolov5_pothole/get_image_Folder
+python integrated.py
+
+# Speed bump detection
+cd yolov5_speedbump/get_image_Folder
+python integrated.py
+
+
+### 2️⃣ Web Interface 🌐
+
+####
