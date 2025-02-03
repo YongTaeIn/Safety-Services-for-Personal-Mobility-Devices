@@ -1,35 +1,4 @@
 
-### 1. detect 
-1) python School_zone_detect.py
-2) python Speed_bump_detect.py
-3) python Sudden_stop_detect.py
-4) python Analysis_rating.py
-
-### 2. WEB
-1) execute web/src/admin.html
-
- 
-###  3. Device (Raspberry pi)
-1) activate conda environment
-2) python Upload_cam.py
-3) python upload_gps.py
-4) python upload_gyro.py
-
-###  4. APP
-1) download all file in app folder
-
-###  5. Risk Detection (YOLOv5) 
-1) activate conda environment
-2_1) cd yolov5_pothole/get_image_Folder
-2_2) python integrated.py
-3_1) cd yolov5_speedbump/get_image_Folder
-3_2) python integrated.py
-
-###  6. Parking Check (Visual localization) 
-1) activate conda environment
-2) python Visual_localization.py
-
-
 
 
 # 🚀 KICK_OFF: Design and Implementation of Intelligent Safety Services for Personal Mobility Devices
@@ -43,7 +12,9 @@ This project integrates **computer vision (YOLOv5, NetVLAD)**, **sensor-based dr
 
 📖 **Paper Published**:  
 [IEEE MetaCom 2023 - Design and Implementation of Intelligent Safety Services for Personal Mobility Devices](https://ieeexplore.ieee.org/abstract/document/10271873)  
-
+🗓 **Conference Date**: *26-28 June 2023*  
+📅 **Publication Date (IEEE Xplore)**: *06 October 2023*  
+📍 **Conference**: *2023 IEEE International Conference on Metaverse Computing, Networking and Applications (MetaCom)*
 ---
 
 ## 🔥 Features  
@@ -109,11 +80,10 @@ python upload_gyro.py
 ---
 ### 5️⃣ Parking Validation via Visual Localization 📍
 Ensures proper kickboard parking using AI-based visual localization (NetVLAD).
-'''
+```
 # Activate environment
 conda activate <your_env>
 
 # Run visual localization
 python Visual_localization.py
-
-'''
+```
