@@ -29,7 +29,9 @@
 1) activate conda environment
 2) python Visual_localization.py
 
-3) 
+
+
+
 # 🚀 KICK_OFF: Design and Implementation of Intelligent Safety Services for Personal Mobility Devices
 **AI-powered safety enhancement for personal mobility**  
 
@@ -96,3 +98,22 @@ python Upload_cam.py
 python upload_gps.py
 python upload_gyro.py
 ```
+
+---
+### 4️⃣ Mobile App 📱
+```
+# Download all files in the 'app' folder
+```
+
+
+---
+### 5️⃣ Parking Validation via Visual Localization 📍
+Ensures proper kickboard parking using AI-based visual localization (NetVLAD).
+'''
+# Activate environment
+conda activate <your_env>
+
+# Run visual localization
+python Visual_localization.py
+
+'''
