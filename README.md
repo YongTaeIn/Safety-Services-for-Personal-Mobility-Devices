@@ -79,15 +79,15 @@ python integrated.py
 
 ### 2️⃣ Web Interface 🌐
 
-'''
+```
 execute web/src/admin.html
-'''
+```
 
 ---
 
 ### 3️⃣ IoT Device Integration (Raspberry Pi) 🖥️
-
-'''
+Handles real-time data uploads from sensors and cameras.
+```
 # Activate Conda environment
 conda activate <your_env>
 
@@ -95,5 +95,4 @@ conda activate <your_env>
 python Upload_cam.py
 python upload_gps.py
 python upload_gyro.py
-
-'''
+```
