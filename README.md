@@ -79,4 +79,21 @@ python integrated.py
 
 ### 2️⃣ Web Interface 🌐
 
-####
+'''
+execute web/src/admin.html
+'''
+
+---
+
+### 3️⃣ IoT Device Integration (Raspberry Pi) 🖥️
+
+'''
+# Activate Conda environment
+conda activate <your_env>
+
+# Upload camera and sensor data
+python Upload_cam.py
+python upload_gps.py
+python upload_gyro.py
+
+'''
