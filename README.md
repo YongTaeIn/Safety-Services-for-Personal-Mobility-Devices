@@ -1,7 +1,7 @@
 
 
 
-# 🚀 KICK_OFF: Design and Implementation of Intelligent Safety Services for Personal Mobility Devices
+# 🚀 Design and Implementation of Intelligent Safety Services for Personal Mobility Devices
 **AI-powered safety enhancement for personal mobility**  
 
 ---
