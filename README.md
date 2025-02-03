@@ -39,15 +39,13 @@ link : https://ieeexplore.ieee.org/abstract/document/10271873
 # 🚀 KICK_OFF: Design and Implementation of Intelligent Safety Services for Personal Mobility Devices
 **AI-powered safety enhancement for personal mobility**  
 
-![Kickboard Safety](https://user-images.githubusercontent.com/your-image-url.png)  
-
 ---
 
 ## 📌 Project Overview  
-KICK_OFF is an AI-driven system designed to enhance kickboard safety by detecting risks, managing GPS tracking, and enabling real-time visual localization.  
-This project integrates **computer vision (YOLOv5)**, **sensor-based risk detection**, and **web/app interfaces** to create a comprehensive smart mobility solution.  
+This project is an AI-based system designed to improve personal mobility safety through real-time hazard detection and notification, indoor parking return confirmation, and driving habit analysis.
+This project integrates **computer vision (YOLOv5, NetVLAD)**, **sensor-based driving habit analysis**, and **web/app interfaces** to create a comprehensive smart mobility solution.  
 
-📖 **Paper Reference**:  
+📖 **Paper Published**:  
 [IEEE MetaCom 2023 - Smart Kickboard Risk Detection](https://ieeexplore.ieee.org/abstract/document/10271873)  
 
 ---
@@ -55,7 +53,7 @@ This project integrates **computer vision (YOLOv5)**, **sensor-based risk detect
 ## 🔥 Features  
 ✔ **Real-time hazard detection** (School zones, speed bumps, sudden stops)  
 ✔ **AI-based pothole & speed bump recognition** (YOLOv5)  
-✔ **Visual localization-based parking validation**  
+✔ **Visual localization-based parking validation** (NetVLAD)
 ✔ **IoT integration with Raspberry Pi for GPS, gyro, and camera uploads**  
 ✔ **Web-based admin dashboard & mobile app**  
 
