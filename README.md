@@ -92,16 +92,16 @@ python Visual_localization.py
 ```
 
 ---
-🎥 Experiment Results & Hardware Specifications
-For detailed experiment results, hardware specifications, and implementation details, visit the project page below:
+## 🎥 Experiment Results & Hardware Specifications  
+For detailed experiment results, hardware specifications, and implementation details, visit the project page below:  
 
-🔗 
-[Hackster.io Project Page](https://www.hackster.io/490781/multiple-safety-service-for-electric-scooter-7d3def](https://www.hackster.io/490781/multiple-safety-service-for-electric-scooter-7d3def)
+🔗 [Hackster.io Project Page](https://www.hackster.io/490781/multiple-safety-service-for-electric-scooter-7d3def)  
 
-This page includes:
-✅ Real-world test videos showcasing system performance
-✅ Hardware specifications and sensor details
-✅ Implementation insights on AI-based safety services
+This page includes:  
+✅ Real-world test videos showcasing system performance  
+✅ Hardware specifications and sensor details  
+✅ Implementation insights on AI-based safety services  
 
-Check it out to explore how our intelligent safety system enhances personal mobility! 🚀
+Check it out to explore how our intelligent safety system enhances personal mobility! 🚀  
+
 
