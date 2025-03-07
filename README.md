@@ -96,8 +96,7 @@ python Visual_localization.py
 For detailed experiment results, hardware specifications, and implementation details, visit the project page below:
 
 🔗 
-[Hackster.io Project Page]
-(https://ieeexplore.ieee.org/abstract/document/10271873](https://www.hackster.io/490781/multiple-safety-service-for-electric-scooter-7d3def) 
+[Hackster.io Project Page](https://www.hackster.io/490781/multiple-safety-service-for-electric-scooter-7d3def](https://www.hackster.io/490781/multiple-safety-service-for-electric-scooter-7d3def)
 
 This page includes:
 ✅ Real-world test videos showcasing system performance
